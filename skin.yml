@@ -55,12 +55,12 @@ k9s:
       activeColor: *yellow
     # Resource status and update styles
     status:
-      newColor: *magenta
-      modifyColor: *blue
-      addColor: *green
+      newColor: *blue
+      modifyColor: *yellow
+      addColor: *white
       errorColor: *red
       highlightcolor: *orange
-      killColor: *comment
+      killColor: *magenta
       completedColor: *comment
     # Border title styles.
     title:
