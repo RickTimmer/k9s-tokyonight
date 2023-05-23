@@ -110,11 +110,13 @@ k9s:
       indicator:
         fgColor: *foreground
         bgColor: *selection
+        toggleOnColor: *cyan
+        toggleOffColor: *foreground
     help:
       fgColor: *foreground
       bgColor: default
       indicator:
         fgColor: *red
-        bgColor: *selection
+        bgColor: default
 
 
