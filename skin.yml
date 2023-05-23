@@ -12,7 +12,6 @@ pink: &pink "#e69AF7"
 blue: &blue "#7AA2F7"
 red: &red "#F7768E"
 white: &white "#C0CAF5"
-black: &black "#414868"
 
 k9s:
   # General K9s styles
